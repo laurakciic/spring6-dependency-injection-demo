@@ -1,6 +1,6 @@
 package com.laurakovacic.spring6dependencyinjectiondemo.controllers;
 
-import com.laurakovacic.spring6dependencyinjectiondemo.services.GreetingService;
+import com.laurakovacic.spring6dependencyinjectiondemo.services.greeting.GreetingService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Controller;

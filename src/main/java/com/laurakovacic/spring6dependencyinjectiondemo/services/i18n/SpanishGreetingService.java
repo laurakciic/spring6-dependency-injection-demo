@@ -1,6 +1,6 @@
 package com.laurakovacic.spring6dependencyinjectiondemo.services.i18n;
 
-import com.laurakovacic.spring6dependencyinjectiondemo.services.GreetingService;
+import com.laurakovacic.spring6dependencyinjectiondemo.services.greeting.GreetingService;
 import org.springframework.context.annotation.Profile;
 import org.springframework.stereotype.Service;
 

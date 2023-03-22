@@ -1,4 +1,4 @@
-package com.laurakovacic.spring6dependencyinjectiondemo.services;
+package com.laurakovacic.spring6dependencyinjectiondemo.services.greeting;
 
 import org.springframework.stereotype.Service;
 
